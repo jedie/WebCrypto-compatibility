@@ -29,6 +29,8 @@ Chrome started to support WebCrypt since v37.
 * windows
 ** Chrome v44 windows 8.1 with only **http**: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v44_windows81_http.png|GoogleChrome_v44_windows81_http.png]]
 ** Chrome v44 windows 8.1 with **https**: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v44_windows81_https.png|GoogleChrome_v44_windows81_https.png]]
+* linux
+** Chromium v44 Ubuntu 14.04 on Cubietruck: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/Chromium_v43_Ubuntu14.04_armv7l.png|Chromium_v43_Ubuntu14.04_armv7l.png]]
 
 (Screenshots are made with the extension: [[https://github.com/mrcoles/full-page-screen-capture-chrome-extension|github.com/mrcoles/full-page-screen-capture-chrome-extension]])
 
