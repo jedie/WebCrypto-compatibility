@@ -31,12 +31,14 @@ Missed a browser/OS combination? Just fork this repro and add it ;)
 
 == Firefox
 
-[[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v31.0esr_windows81.png|Firefox_v31.0esr_windows81.png]]
+* linux
+** Firefox v39 under linux mint 17: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v39.0esr_ubuntu.png|Firefox_v39.0esr_ubuntu.png]]
+* windows
+** Firefox v31esr under windows 8.1 64bit: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v31.0esr_windows81.png|Firefox_v31.0esr_windows81.png]]
 
-[[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v39.0esr_ubuntu.png|Firefox_v39.0esr_ubuntu.png]]
 
 == IE / Edge
 
-IE11 does only support a old API. But the example page doesn't support this. See also: [[https://github.com/diafygi/webcrypto-examples/issues/12|webcrypto-examples issues #12]]
+IE11 does only support a old API (no 'promise' support) and the example page doesn't support this. So you can't see which parts of the WebCrypt is supported. See also: [[https://github.com/diafygi/webcrypto-examples/issues/12|webcrypto-examples issues #12]]
 
-[[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png]]
+* Edge v20.10162.0.0 on Windows 10 build 10162: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png]]
