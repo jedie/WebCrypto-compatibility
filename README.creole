@@ -62,6 +62,6 @@ A general overview can be found here:
 
 === Charles Engelke's spreadsheets
 
-The blogger Charles Engelke has created a google spreadsheets with some browser compatibility information:
+The blogger [[http://blog.engelke.com/2015/03/06/where-can-you-use-the-web-cryptography-api-today/|Charles Engelke has created a google spreadsheets]] with some browser compatibility information:
 
 * https://docs.google.com/spreadsheets/d/14oTKnccypDRieszGLV7GbZXcIai0qLYOwgk_ELIj5A0/pubhtml
