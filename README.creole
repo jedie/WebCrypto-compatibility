@@ -67,3 +67,11 @@ A general overview can be found here:
 The blogger [[http://blog.engelke.com/2015/03/06/where-can-you-use-the-web-cryptography-api-today/|Charles Engelke has created a google spreadsheets]] with some browser compatibility information:
 
 * https://docs.google.com/spreadsheets/d/14oTKnccypDRieszGLV7GbZXcIai0qLYOwgk_ELIj5A0/pubhtml
+
+
+=== dev.modern.ie
+
+Microsoft host the page http://dev.modern.ie that offers a service from https://www.browserstack.com
+It makes screenshots of a webpage with different Browser/OS:
+
+* http://dev.modern.ie/tools/screenshots/#https://diafygi.github.io/webcrypto-examples/
