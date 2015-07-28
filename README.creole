@@ -1,0 +1,15 @@
+= About
+
+Collection of "Web Cryptography API Live Table" results -> https://diafygi.github.io/webcrypto-examples/
+
+== Firefox
+
+{{https://raw.githubusercontent.com/jedie/WebCrypto-example-results/master/screenshots/Firefox_v31.0esr_windows81.png|Firefox_v31.0esr_windows81.png}}
+
+{{https://raw.githubusercontent.com/jedie/WebCrypto-example-results/master/screenshots/Firefox_v39.0esr_ubuntu.png|Firefox_v39.0esr_ubuntu.png}}
+
+== IE / Edge
+
+IE11 does only support a old API. But the example page doesn't support this. See also: [[https://github.com/diafygi/webcrypto-examples/issues/12|webcrypto-examples issues #12]]
+
+{{https://raw.githubusercontent.com/jedie/WebCrypto-example-results/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png}}
