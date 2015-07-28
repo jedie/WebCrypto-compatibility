@@ -31,11 +31,22 @@ Missed a browser/OS combination? Just fork this repro and add it ;)
 
 == Firefox
 
+Firefox v31esr doesn't support WebCrypt, but >=v39 does it:
+
 * linux
 ** Firefox v39 under linux mint 17: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v39.0esr_ubuntu.png|Firefox_v39.0esr_ubuntu.png]]
 * windows
 ** Firefox v31esr under windows 8.1 64bit: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v31.0esr_windows81.png|Firefox_v31.0esr_windows81.png]]
 
+== Google Chrome / Chromium
+
+Chrome started to support WebCrypt since v37.
+
+**Important:** API is only usable over secure connections! (See also: [[https://code.google.com/p/chromium/issues/detail?id=373032|Issue #373032 thread]])
+
+* windows
+** Chrome v44 windows 8.1 with only **http**: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v44_windows81_http.png|GoogleChrome_v44_windows81_http.png]]
+** Chrome v44 windows 8.1 with **https**: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v44_windows81_https.png|GoogleChrome_v44_windows81_https.png]]
 
 == IE / Edge
 
