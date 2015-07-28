@@ -2,34 +2,14 @@
 
 Collection of "Web Cryptography API Live Table" results -> https://diafygi.github.io/webcrypto-examples/
 
-== Links
 
-* http://www.w3.org/TR/WebCryptoAPI/
-* https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto
-* https://www.chromium.org/blink/webcrypto
-* https://msdn.microsoft.com/en-us/library/dn302338%28v=vs.85%29.aspx
-
-=== caniuse.com
-
-A general overview can be found here:
-
-* http://caniuse.com/#feat=cryptography
-
-(But you can't see which parts of WebCrypt is supported. See also: [[https://github.com/Fyrd/caniuse/issues/1759|caniuse issues #1759]])
-
-=== Charles Engelke's spreadsheets
-
-The blogger Charles Engelke has created a google spreadsheets with some browser compatibility information:
-
-* https://docs.google.com/spreadsheets/d/14oTKnccypDRieszGLV7GbZXcIai0qLYOwgk_ELIj5A0/pubhtml
-
-
-= browser compatibility information
+== browser compatibility information
 
 Here the results of the example page.
 Missed a browser/OS combination? Just fork this repro and add it ;)
 
-== Firefox
+
+=== Firefox
 
 Firefox started to support WebCrypt since v39.
 So the current v31esr doesn't support WebCrypt!
@@ -39,7 +19,8 @@ So the current v31esr doesn't support WebCrypt!
 * windows
 ** Firefox v31esr under windows 8.1 64bit: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v31.0esr_windows81.png|Firefox_v31.0esr_windows81.png]]
 
-== Google Chrome / Chromium
+
+=== Google Chrome / Chromium
 
 Chrome started to support WebCrypt since v37.
 
@@ -49,8 +30,38 @@ Chrome started to support WebCrypt since v37.
 ** Chrome v44 windows 8.1 with only **http**: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v44_windows81_http.png|GoogleChrome_v44_windows81_http.png]]
 ** Chrome v44 windows 8.1 with **https**: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v44_windows81_https.png|GoogleChrome_v44_windows81_https.png]]
 
-== IE / Edge
+(Screenshots are made with the extension: [[https://github.com/mrcoles/full-page-screen-capture-chrome-extension|github.com/mrcoles/full-page-screen-capture-chrome-extension]])
+
+
+=== IE / Edge
 
 IE11 does only support a old API (no 'promise' support) and the example page doesn't support this. So you can't see which parts of the WebCrypt is supported. See also: [[https://github.com/diafygi/webcrypto-examples/issues/12|webcrypto-examples issues #12]]
 
 * Edge v20.10162.0.0 on Windows 10 build 10162: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png]]
+
+
+
+== Links
+
+general links:
+
+* http://www.w3.org/TR/WebCryptoAPI/
+* https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto
+* https://www.chromium.org/blink/webcrypto
+* https://msdn.microsoft.com/en-us/library/dn302338%28v=vs.85%29.aspx
+
+
+=== caniuse.com
+
+A general overview can be found here:
+
+* http://caniuse.com/#feat=cryptography
+
+(But you can't see which parts of WebCrypt is supported. See also: [[https://github.com/Fyrd/caniuse/issues/1759|caniuse issues #1759]])
+
+
+=== Charles Engelke's spreadsheets
+
+The blogger Charles Engelke has created a google spreadsheets with some browser compatibility information:
+
+* https://docs.google.com/spreadsheets/d/14oTKnccypDRieszGLV7GbZXcIai0qLYOwgk_ELIj5A0/pubhtml
