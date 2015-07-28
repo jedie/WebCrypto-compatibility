@@ -2,14 +2,37 @@
 
 Collection of "Web Cryptography API Live Table" results -> https://diafygi.github.io/webcrypto-examples/
 
+== Links
+
+* http://www.w3.org/TR/WebCryptoAPI/
+* https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto
+* https://www.chromium.org/blink/webcrypto
+* https://msdn.microsoft.com/en-us/library/dn302338%28v=vs.85%29.aspx
+
+=== caniuse.com
+
+A general overview can be found here:
+
+* http://caniuse.com/#feat=cryptography
+
+(But you can't see which parts of WebCrypt is supported. See also: [[https://github.com/Fyrd/caniuse/issues/1759|caniuse issues #1759]])
+
+=== Charles Engelke's spreadsheets
+
+The blogger Charles Engelke has created a google spreadsheets with some browser compatibility information:
+
+* https://docs.google.com/spreadsheets/d/14oTKnccypDRieszGLV7GbZXcIai0qLYOwgk_ELIj5A0/pubhtml
+
+
+
 == Firefox
 
-{{https://raw.githubusercontent.com/jedie/WebCrypto-example-results/master/screenshots/Firefox_v31.0esr_windows81.png|Firefox_v31.0esr_windows81.png}}
+[[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v31.0esr_windows81.png|Firefox_v31.0esr_windows81.png]]
 
-{{https://raw.githubusercontent.com/jedie/WebCrypto-example-results/master/screenshots/Firefox_v39.0esr_ubuntu.png|Firefox_v39.0esr_ubuntu.png}}
+[[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v39.0esr_ubuntu.png|Firefox_v39.0esr_ubuntu.png]]
 
 == IE / Edge
 
 IE11 does only support a old API. But the example page doesn't support this. See also: [[https://github.com/diafygi/webcrypto-examples/issues/12|webcrypto-examples issues #12]]
 
-{{https://raw.githubusercontent.com/jedie/WebCrypto-example-results/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png}}
+[[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png]]
