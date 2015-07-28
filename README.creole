@@ -24,6 +24,10 @@ The blogger Charles Engelke has created a google spreadsheets with some browser 
 * https://docs.google.com/spreadsheets/d/14oTKnccypDRieszGLV7GbZXcIai0qLYOwgk_ELIj5A0/pubhtml
 
 
+= browser compatibility information
+
+Here the results of the example page.
+Missed a browser/OS combination? Just fork this repro and add it ;)
 
 == Firefox
 
