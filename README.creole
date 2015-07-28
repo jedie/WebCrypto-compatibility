@@ -31,7 +31,8 @@ Missed a browser/OS combination? Just fork this repro and add it ;)
 
 == Firefox
 
-Firefox v31esr doesn't support WebCrypt, but >=v39 does it:
+Firefox started to support WebCrypt since v39.
+So the current v31esr doesn't support WebCrypt!
 
 * linux
 ** Firefox v39 under linux mint 17: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Firefox_v39.0esr_ubuntu.png|Firefox_v39.0esr_ubuntu.png]]
