@@ -32,7 +32,7 @@ Chrome started to support WebCrypt since v37.
 * linux
 ** [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/Chromium_v43_Ubuntu14.04_armv7l.png|Chromium v44 Ubuntu 14.04 on Cubietruck]]
 * android
-** [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v39_SamsungGalaxyS6_Android_5.0|Chromium v39 Android 5.0 on Samsung Galaxy S6]]
+** [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v39_SamsungGalaxyS6_Android_5.0.png|Chromium v39 Android 5.0 on Samsung Galaxy S6]]
 
 (Some screenshots are made with the extension: [[https://github.com/mrcoles/full-page-screen-capture-chrome-extension|github.com/mrcoles/full-page-screen-capture-chrome-extension]])
 
