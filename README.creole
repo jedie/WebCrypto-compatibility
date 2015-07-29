@@ -31,16 +31,24 @@ Chrome started to support WebCrypt since v37.
 ** Chrome v44 windows 8.1 with **https**: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v44_windows81_https.png|GoogleChrome_v44_windows81_https.png]]
 * linux
 ** Chromium v44 Ubuntu 14.04 on Cubietruck: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/Chromium_v43_Ubuntu14.04_armv7l.png|Chromium_v43_Ubuntu14.04_armv7l.png]]
+* android
+** Chromium v39 Android 5.0 on Samsung Galaxy S6: [[https://github.com/jedie/WebCrypto-compatibility/blob/master/screenshots/GoogleChrome_v39_SamsungGalaxyS6_Android_5.0|GoogleChrome_v39_SamsungGalaxyS6_Android_5.0]]
 
-(Screenshots are made with the extension: [[https://github.com/mrcoles/full-page-screen-capture-chrome-extension|github.com/mrcoles/full-page-screen-capture-chrome-extension]])
+(Some screenshots are made with the extension: [[https://github.com/mrcoles/full-page-screen-capture-chrome-extension|github.com/mrcoles/full-page-screen-capture-chrome-extension]])
 
 
 === IE / Edge
 
 IE11 does only support a old API (no 'promise' support) and the example page doesn't support this. So you can't see which parts of the WebCrypt is supported. See also: [[https://github.com/diafygi/webcrypto-examples/issues/12|webcrypto-examples issues #12]]
 
-* Edge v20.10162.0.0 on Windows 10 build 10162: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png]]
+* Windows 10:
+** Edge v20.10162.0.0 on Windows 10 build 10162: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Edge_v20.10162.0.0_Windows10_build10162.png|Edge_v20.10162.0.0_Windows10_build10162.png]]
+* Windows Phone:
+** IEMobile v11 on Nokia Lumia 930 with Windows Phone v8.1: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/IEMobile11_NokiaLumia930_WindowsPhone_v8.1.jpg|IEMobile11_NokiaLumia930_WindowsPhone_v8.1.jpg]]
 
+=== Safari
+
+* Safari v600.1.4 on iPad Air with iOS v8.3: [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Safari_v600.1.4_iPadAir_iOS_v8.3.png|Safari_v600.1.4_iPadAir_iOS_v8.3.png]]
 
 
 == Links
