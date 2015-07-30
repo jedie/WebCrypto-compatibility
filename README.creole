@@ -50,7 +50,11 @@ IE11 does only support a old API (no 'promise' support) and the example page doe
 
 === Safari
 
-* [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Safari_v600.1.4_iPadAir_iOS_v8.3.png|Safari v600.1.4 on iPad Air with iOS v8.3]]
+* Desktop:
+** [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Safari_v8.0_OSX_10.10.4_Yosemite.jpg|Safari v8.0 on OSX v10.10.4 (Yosemite)]]
+* mobile/tablet:
+** [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Safari_v600.1.4_iPhone6Plus_iOS_8.3.jpg|Safari v600.1.4 on iPhone 6 Plus with iOS v8.3 (via iOS Simulator)]]
+** [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Safari_v600.1.4_iPadAir_iOS_v8.3.png|Safari v600.1.4 on iPad Air with iOS v8.3 (via iOS Simulator)]]
 
 
 == Links
