@@ -57,6 +57,11 @@ IE11 does only support a old API (no 'promise' support) and the example page doe
 ** [[https://github.com/jedie/WebCrypto-example-results/blob/master/screenshots/Safari_v600.1.4_iPadAir_iOS_v8.3.png|Safari v600.1.4 on iPad Air with iOS v8.3 (via iOS Simulator)]]
 
 
+=== the others
+
+* Epiphany v3.8.2 doesn't support Web Cryptography API: 'window.crypto' exists, but 'window.crypto.subtle' doesn't exists!
+
+
 == Links
 
 general links:
