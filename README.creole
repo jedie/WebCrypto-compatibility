@@ -2,6 +2,8 @@
 
 Collection of "Web Cryptography API Live Table" results -> https://diafygi.github.io/webcrypto-examples/
 
+Some screenshots are made with https://www.browserstack.com (Thanks for the support of OpenSource projects)
+
 
 == browser compatibility information
 
